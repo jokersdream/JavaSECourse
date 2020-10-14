@@ -1,2 +1,2 @@
 # JavaSECourse
-JAVA语言程序设计D课程
+###            by ***软件zy1901 宋智彬***
